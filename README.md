@@ -1,0 +1,2 @@
+# Detection-of-Induction-Motor-Stator-Damage-Using-Electric-Signals.
+Detection of Induction Motor Stator Damage Using Electric Signals. Research that I did is build a system predictive maintenance that can detect faulty of stator induction motor by using current signal. I was combining artificial intelligence in system detection for more accurate predict the condition of induction motor. The project need skills like signal processing, statistical methods, artificial intelligence, and advance programming level.
